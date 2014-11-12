@@ -1,0 +1,52 @@
+Delivered-To: hdkim@narantech.com
+Received: by 10.194.161.225 with SMTP id xv1csp214297wjb;
+Tue, 11 Feb 2014 08:05:07 -0800 (PST)
+X-Received: by 10.220.161.132 with SMTP id r4mr1362191vcx.29.1392134706886;
+Tue, 11 Feb 2014 08:05:06 -0800 (PST)
+Return-Path: <clwhite8@gmail.com>
+Received: from mail-vb0-x242.google.com (mail-vb0-x242.google.com [2607:f8b0:400c:c02::242])
+by mx.google.com with ESMTPS id y3si6055304vdo.84.2014.02.11.08.05.06
+for <hdkim@narantech.com>
+(version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+Tue, 11 Feb 2014 08:05:06 -0800 (PST)
+Received-SPF: pass (google.com: domain of clwhite8@gmail.com designates 2607:f8b0:400c:c02::242 as permitted sender) client-ip=2607:f8b0:400c:c02::242;
+Authentication-Results: mx.google.com;
+spf=pass (google.com: domain of clwhite8@gmail.com designates 2607:f8b0:400c:c02::242 as permitted sender) smtp.mail=clwhite8@gmail.com;
+dkim=pass header.i=@gmail.com;
+dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-vb0-f66.google.com with SMTP id x14so1564615vbb.9
+for <hdkim@narantech.com>; Tue, 11 Feb 2014 08:05:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+d=gmail.com; s=20120113;
+h=mime-version:date:message-id:subject:from:to:content-type;
+bh=r69Vs/Gc7Ry/WIgqKe4152VnvdLoOB28loDrz0OQrm0=;
+b=KKfGjR1BVdiPz72VvWZIbjGoPQ36VS0xK7vPwvjJ/ti+YK3IHTal+wff+bdKLp3adm
+WfyD2dFrR3btQgWvITA5vLPAMPHXADYuzvcz+N2rc/VHG6yH9Iivm+nenOLJ22TaaHS0
+PK2mlZuBAhKEVgq8PPh3spCZQKCLbZ8NTWs50o1ZXtXfeA1mFwUxUq3vDek8KS254c2u
+vthUIzI/iEBQo8Rnp6iMRCFwkUxNOPSeyvcy04KYHetAfXjMWX3Svc2wtQTMHCa972Ik
+xtIeNrY056agKcHRIrF0U/rbV2stSM1OZBwd01zElO2JDkjJmuU6ArmMVdxL5YlV8rr6
+6Dog==
+MIME-Version: 1.0
+X-Received: by 10.220.147.16 with SMTP id j16mr1788541vcv.28.1392134706362;
+Tue, 11 Feb 2014 08:05:06 -0800 (PST)
+Received: by 10.220.172.72 with HTTP; Tue, 11 Feb 2014 08:05:06 -0800 (PST)
+Date: Wed, 12 Feb 2014 01:05:06 +0900
+Message-ID: <CAOujjxBWLq37hUKBysrRADEUzUS6bNR-Xr87UKsyahmK_+dkMQ@mail.gmail.com>
+Subject: asdfe
+From: =?UTF-8?B?6rmA7Zqo64+Z?= <clwhite8@gmail.com>
+To: hdkim@narantech.com
+Content-Type: multipart/alternative; boundary=047d7b3436d2a6fe4704f2239e11
+
+--047d7b3436d2a6fe4704f2239e11
+Content-Type: text/plain; charset=EUC-KR
+Content-Transfer-Encoding: base64
+
+sejIv7W/DQqzqrb1xdfFqQ0Kv8O4ssfIDQo=
+--047d7b3436d2a6fe4704f2239e11
+Content-Type: text/html; charset=EUC-KR
+Content-Transfer-Encoding: base64
+
+PGRpdiBkaXI9Imx0ciI+sejIv7W/PGRpdj6zqrb1xdfFqTwvZGl2PjxkaXY+v8O4ssfIPC9kaXY+
+PC9kaXY+DQo=
+--047d7b3436d2a6fe4704f2239e11--
+FLAGS (\Seen))
